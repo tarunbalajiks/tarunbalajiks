@@ -1,4 +1,3 @@
-[![@tarunbalajiks's Holopin board](https://holopin.io/api/user/board?user=tarunbalajiks)](https://holopin.io/@tarunbalajiks)
 [![An image of @guitaruser's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guitaruser)](https://holopin.io/@guitaruser)
 - 👋 Hi, I’m Tarun Balaji K S
 - 👀 I’m interested in <a href="https://www.instagram.com/load_thecode/">Cybersecurity</a> &  <a href="https://www.instagram.com/tarun_code.py/">Solutions Architecture Using AIML. </a>
